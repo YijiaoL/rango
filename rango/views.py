@@ -113,7 +113,7 @@ def show_page(request, category_name_slug, page_name_slug):
         context_dict['category_name_slug'] = category_name_slug  
 
     except Page.DoesNotExist:
-        # 如果页面不存在，设置标题为 None
+        # If the page does not exist, set the title to None
         context_dict['title'] = None
         context_dict['page'] = None
         context_dict['comments'] = None

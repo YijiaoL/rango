@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b168158-18a1-4925-b1df-488d40dfeb80" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/rango/context_processors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rango/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/rango/auth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rango/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/rango/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rango/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/rango/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tango_with_django_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/tango_with_django_project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/rango/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/rango/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/rango/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/rango/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/registration/edit_profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/registration/edit_profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/registration/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/registration/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/txt" beforeDir="false" />
-    </list>
+    <list default="true" id="5b168158-18a1-4925-b1df-488d40dfeb80" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,7 +99,7 @@
       <workItem from="1741838537408" duration="18723000" />
       <workItem from="1741872084041" duration="92000" />
       <workItem from="1741936024420" duration="20812000" />
-      <workItem from="1742263935013" duration="4238000" />
+      <workItem from="1742263935013" duration="5025000" />
     </task>
     <servers />
   </component>
