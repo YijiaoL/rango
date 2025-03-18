@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b168158-18a1-4925-b1df-488d40dfeb80" name="更改" comment="修改注释">
-      <change afterPath="$PROJECT_DIR$/static/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/70aa3582-0311-4011-ac97-ecfc56d87c12.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/rango/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/rango/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +102,7 @@
       <workItem from="1741872084041" duration="92000" />
       <workItem from="1741936024420" duration="20812000" />
       <workItem from="1742263935013" duration="5810000" />
-      <workItem from="1742296871252" duration="1058000" />
+      <workItem from="1742296871252" duration="1695000" />
     </task>
     <task id="LOCAL-00001" summary="修改注释">
       <created>1742269513705</created>
@@ -119,6 +116,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="修改注释" />
