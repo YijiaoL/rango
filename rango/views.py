@@ -21,7 +21,7 @@ def index(request):
     else:
         all_pages = Page.objects.all()
     context_dict = {}
-    context_dict['categories'] = category_list
+    context_dict['categories_'] = category_list
     context_dict['pages'] = page_list
     context_dict['all_pages'] = all_pages
     visitor_cookie_handler(request)

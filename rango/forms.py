@@ -66,7 +66,7 @@ class UserRegistrationForm(UserCreationForm):
 
 # 用户登录表单
 class UserLoginForm(forms.Form):
-    username = forms.CharField()
+    email = forms.EmailField()
     password = forms.CharField(widget=forms.PasswordInput)
 
     def __init__(self, *args, **kwargs):
